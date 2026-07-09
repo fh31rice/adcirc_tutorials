@@ -10,4 +10,6 @@ nav:
 
 nav:
   - Home: index.md
-  - Learning Resources: tutorial 1.md
+  - Getting Started: tutorial 1.md
+  - Resources to Learn: resources.md
+  - Data sources: datasource.md
