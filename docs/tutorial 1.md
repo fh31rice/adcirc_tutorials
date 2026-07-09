@@ -16,9 +16,9 @@ you an overview of the best resources and where to find them. I will try to give
 
 If you are new to ADCIRC, here is what you should know beforehand:
 
-ADCIRC is primarily run on **HPC (High Performance Computing)** 
+ADCIRC is free to download and primarily run on **HPC (High Performance Computing)** 
 systems, so a basic understanding of Linux commands and job 
-schedulers like SLURM is helpful before you start. Also, ADCIRC input and output files are written on fortran scripts So, a basic undersanding of fortran will help you. It is not mandatory to have a very good idea about fortran, you will mostly need to understand the parameters how they are written in ADCIRC. I would say, you will eventually be familiar with time to time while working with these scripts.
+schedulers like SLURM is helpful before you start. Also, ADCIRC input and output files are written on fortran scripts. So, a basic undersanding of fortran will help you. It is not mandatory to have a very good idea about fortran, you will mostly need to understand the parameters how they are written in ADCIRC. I would say, you will eventually be familiar with time to time while working with these scripts.
 
 ### Getting ADCIRC Compiled
 
@@ -38,7 +38,7 @@ users due to library dependencies. You have two options:
 ### Q2. Do I need to have any software installed?
 
 Yes, you should have  **[SMS Software](https://aquaveo.com/downloads-sms)** — 
-  surface water modeling. This software community version is free, but you need to have a licensed verson to do more complex tasks. Although it is not fully necessary to have any software to run ADCIRC, but sometimes mesh generation, viewing results etc., you will need to use SMS software.
+  surface water modeling. This software community version is free, but you need to have a licensed version to do more complex tasks. Although it is not fully necessary to have any software to run ADCIRC, but sometimes mesh generation, viewing results etc., you will need to use SMS software.
 
 ### Q3. Can I run ADCIRC inside SMS?
 
@@ -56,7 +56,7 @@ one of the best ways to get hands-on experience with the model.
 
 ### Q5. How much should I know to use HPC?
 
-You should have some ideas about basic coomands, say like, how to open account and access HPC, how to change directory, add directory, how to upload and download files to HPC, how to submit job in HPC etc. Normally every educational institute have some resources to give training on HPC to the new users, so try to find those from your university and attend.
+You should have some ideas about basic commands, say like, how to open account and access HPC, how to change directory, add directory, how to upload and download files to HPC, how to submit job in HPC etc. Normally every educational institute have some resources to give training on HPC to the new users, so try to find those from your university and attend.
 
 ### Q6. So, basically, what I need then to run ADCIRC?
 

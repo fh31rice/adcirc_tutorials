@@ -1,10 +1,19 @@
 site_name: ADCIRC & SWAN Tutorials
-site_author: Fuad Hasan
+
 theme:
   name: material
   palette:
     primary: blue
-
+    accent: cyan
+  font:
+    text: Roboto
+  icon:
+    logo: material/waves
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
 nav:
   - Home: index.md
 
@@ -13,3 +22,4 @@ nav:
   - Getting Started: tutorial 1.md
   - Resources to Learn: resources.md
   - Data sources: datasource.md
+  - ADCIRC Input Files: inputfiles.md

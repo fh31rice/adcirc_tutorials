@@ -37,4 +37,7 @@ This is the official user manual
 
 11. **[RiverGeeks YouTube Channel](https://www.youtube.com/@RiverGeeks)** — video tutorials and playlists on SMS
 
+
+12. **[TPXO Global Tidal Model](https://www.tpxo.net/)** — global ocean tide model (e.g., OSU TPXO9) providing tidal constituent data used to generate ADCIRC tidal boundary forcing (fort.15 tidal amplitudes and phases). This data is provided by Oreon State University, but you need to email them to get access of this data. The procedure is written in their website.
+
 Besides these resources, you can joind ADCIRC Discord group, slack group and OceanMesh2D slack group.

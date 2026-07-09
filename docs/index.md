@@ -7,12 +7,12 @@ for coastal engineers and researchers.
 
 - How to run ADCIRC
 - How to run SWAN
-- Different fort files of ADCIRC and what the parameters mean
+- Different fort files for ADCIRC and description of the parameters
 - How to troubleshoot
 - Some resources to learn about ADCIRC and SWAN
 - Different editing techniques in SMS software
 - How to generate mesh with OceanMesh2D
-- Troubleshooting in ADCIRC
+
 
 ## About
 
